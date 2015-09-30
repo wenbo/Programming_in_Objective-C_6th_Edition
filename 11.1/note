@@ -1,0 +1,2 @@
+Note
+By convention, the base name of the .h and .m files for a category is the class name followed by a plus sign, followed by the category name. In our example, we would put the interface section for the category in a file named Fraction+MathOps.h and the implementation section in a file called Fraction+MathOps.m.
