@@ -11,6 +11,6 @@ Stephen Kochan is the author and coauthor of several bestselling titles on the C
 ## How This Book Is Organized
 This book is divided into three logical parts.
 
-### Part I, “The Objective-C Language,” teaches the essentials of the language.
-### Part II, “The Foundation Framework,” teaches how to use the rich assortment of predefined classes that form the Foundation framework.
-### Part III, “Cocoa, Cocoa Touch, and the iOS SDK,” gives you an overview of the Cocoa and Cocoa Touch frameworks and then walks you through the process of developing a simple iOS application using the iOS SDK.
+#### Part I, “The Objective-C Language,” teaches the essentials of the language.
+#### Part II, “The Foundation Framework,” teaches how to use the rich assortment of predefined classes that form the Foundation framework.
+#### Part III, “Cocoa, Cocoa Touch, and the iOS SDK,” gives you an overview of the Cocoa and Cocoa Touch frameworks and then walks you through the process of developing a simple iOS application using the iOS SDK.
